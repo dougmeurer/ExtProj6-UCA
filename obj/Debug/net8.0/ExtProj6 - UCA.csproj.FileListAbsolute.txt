@@ -1,0 +1,14 @@
+C:\Users\Dough\Desktop\ExtProj6 - UCA\bin\Debug\net8.0\ExtProj6 - UCA.exe
+C:\Users\Dough\Desktop\ExtProj6 - UCA\bin\Debug\net8.0\ExtProj6 - UCA.deps.json
+C:\Users\Dough\Desktop\ExtProj6 - UCA\bin\Debug\net8.0\ExtProj6 - UCA.runtimeconfig.json
+C:\Users\Dough\Desktop\ExtProj6 - UCA\bin\Debug\net8.0\ExtProj6 - UCA.dll
+C:\Users\Dough\Desktop\ExtProj6 - UCA\bin\Debug\net8.0\ExtProj6 - UCA.pdb
+C:\Users\Dough\Desktop\ExtProj6 - UCA\obj\Debug\net8.0\ExtProj6 - UCA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dough\Desktop\ExtProj6 - UCA\obj\Debug\net8.0\ExtProj6 - UCA.AssemblyInfoInputs.cache
+C:\Users\Dough\Desktop\ExtProj6 - UCA\obj\Debug\net8.0\ExtProj6 - UCA.AssemblyInfo.cs
+C:\Users\Dough\Desktop\ExtProj6 - UCA\obj\Debug\net8.0\ExtProj6 - UCA.csproj.CoreCompileInputs.cache
+C:\Users\Dough\Desktop\ExtProj6 - UCA\obj\Debug\net8.0\ExtProj6 - UCA.dll
+C:\Users\Dough\Desktop\ExtProj6 - UCA\obj\Debug\net8.0\refint\ExtProj6 - UCA.dll
+C:\Users\Dough\Desktop\ExtProj6 - UCA\obj\Debug\net8.0\ExtProj6 - UCA.pdb
+C:\Users\Dough\Desktop\ExtProj6 - UCA\obj\Debug\net8.0\ExtProj6 - UCA.genruntimeconfig.cache
+C:\Users\Dough\Desktop\ExtProj6 - UCA\obj\Debug\net8.0\ref\ExtProj6 - UCA.dll
